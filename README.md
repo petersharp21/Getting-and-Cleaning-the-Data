@@ -1,5 +1,4 @@
 Getting and Cleaning the Data Course Project
-=========================================================================================================================================
 
 Files:
 run_analysis.R
@@ -10,7 +9,7 @@ Tidy_Dataset.txt
 
 Codebook.MD
 - Codebook containing information regarding the source data, descriptions of the variables and data set. 
-=========================================================================================================================================
+
 
 Objective:
 
@@ -21,7 +20,6 @@ Data collected from the accelerometers from the Samsung Galaxy S smartphone is u
 - Appropriately labels the data set with descriptive variable names.
 - Create a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-========================================================================================================================================
 
 
 
