@@ -3,7 +3,9 @@ CODEBOOK.MD
 Unique Identifiers:
 
 subject - unique ID of subject
+
 Act_Name - description of the activity performed by each subject
+
 Act_Number - unique identifier of the activity name (Act_Name)
 
 Measurements:
