@@ -9,12 +9,18 @@ Act_Name - description of the activity performed by each subject
 Act_Number - unique identifier of the activity name (Act_Name)
 
 Measurements:
-Body = related to body movement.
+
+Body = related to body movement
+
 Gravity = acceleration of gravity
+
 Acc = accelerometer measurement
+
 Gyro = gyroscopic measurements
+
 Jerk = sudden movement acceleration
 Mag = magnitude of movement
+
 
 Activities:
 WALKING (Act_Number 1): subject was walking during the test
