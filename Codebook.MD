@@ -8,6 +8,8 @@ Act_Name - description of the activity performed by each subject
 
 Act_Number - unique identifier of the activity name (Act_Name)
 
+
+
 Measurements:
 
 Body = related to body movement
@@ -20,6 +22,7 @@ Gyro = gyroscopic measurements
 
 Jerk = sudden movement acceleration
 Mag = magnitude of movement
+
 
 
 Activities:
